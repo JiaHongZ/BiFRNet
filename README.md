@@ -1,4 +1,4 @@
-#BIFRNet: A Brain-Inspired Feature Restoration DNN for Partially Occluded Image Recognition
+# BIFRNet: A Brain-Inspired Feature Restoration DNN for Partially Occluded Image Recognition
 
 Published in AAAI2023
 
