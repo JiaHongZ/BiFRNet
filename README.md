@@ -23,6 +23,11 @@ Download the dataset from [Compositional Convolutional Neural Networks: A Deep A
     
 - run main_test_BIFRNet_pascal3d+.py
 
+- Download imgbag.txt :
+通过网盘分享的文件：imgbag.txt
+链接: https://pan.baidu.com/s/1JeJy9urKpwXvIh5hQLKWBg?pwd=anuf 提取码: anuf 
+--来自百度网盘超级会员v9的分享
+  and put it in folder 'utils'
 
 ## 3. Train your own model
 Modify the data_path in training file: main_train_BIFRNet.py (for pascal3d+), main_train_BIFRNet_coco.py (for coco) or others.
